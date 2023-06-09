@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hola Mundo UNAM</string>
+    <string name="titulo_app">Bienvenido</string>
+    <string name="button_text">Entrar</string>
+</resources>

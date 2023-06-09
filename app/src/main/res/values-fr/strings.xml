@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Salut monde UNAM</string>
+    <string name="titulo_app">Bienvenue</string>
+    <string name="button_text">Entrer</string>
+</resources>
