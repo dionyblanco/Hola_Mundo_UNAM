@@ -19,7 +19,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.518"
-        app:srcCompat="@drawable/Marcianito" />
+        app:srcCompat="@drawable/marcia_nito" />
 
     <TextView
         android:id="@+id/textView2"

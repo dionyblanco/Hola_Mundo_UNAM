@@ -16,7 +16,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/Marcianito" />
+        app:srcCompat="@drawable/marcia_nito" />
 
     <TextView
         android:id="@+id/textView2"
@@ -35,8 +35,8 @@
         android:id="@+id/button"
         style="@android:style/Widget.Material.Light.Button.Borderless.Small"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="220dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="184dp"
         android:text="@string/button_text"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
